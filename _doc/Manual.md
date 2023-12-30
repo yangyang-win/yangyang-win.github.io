@@ -123,7 +123,7 @@ header-mask: 0.3
 
 Etc.
 
-
+/img/avatar-hux.jpg 
 ### SideBar
 
 ![](http://huangxuan.me/img/blog-sidebar.jpg)
@@ -134,7 +134,7 @@ Etc.
 # Sidebar settings
 sidebar: true   # default true
 sidebar-about-description: "your description here"
-sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+sidebar-avatar:     # use absolute URL.
 ```
 
 Modules *[Featured Tags](#featured-tags)*, *[Mini About Me](#mini-about-me)* and *[Friends](#friends)* are turned on by default and you can add your own. The sidebar is naturally responsive, i.e. be pushed to bottom in a smaller screen (`<= 992px`, according to [Bootstarp Grid System](http://getbootstrap.com/css/#grid))  
