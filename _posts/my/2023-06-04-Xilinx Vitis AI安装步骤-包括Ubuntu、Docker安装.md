@@ -23,12 +23,6 @@ description: Transformers入门，Huggingface，Finetune，BERT # 没用
 
 # 环境安装流程 
 
----
-
-[toc]
-
----
-
 ## Ubuntu 20.04 安装
 1. 下载镜像：[ubuntu-20.04.6-desktop-amd64.iso](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/20.04/ubuntu-20.04.6-desktop-amd64.iso)
 2. 下载 rufus: [官网地址](https://rufus.ie/zh/)
