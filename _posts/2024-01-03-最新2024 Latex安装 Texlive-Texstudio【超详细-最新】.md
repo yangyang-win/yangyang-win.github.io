@@ -25,41 +25,41 @@ hidden: false # 是否展示在主页，不展示在主页在分类里面还可�
 ### 一、Texlive 2023安装
 #### 1、下载Texlive安装包
 由于网络的原因，这里推荐使用[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)来下载安装包，选择如下所示的包
-![texlive](./picture/1.png)由于这个包比较大，因此下载的时候可以同时去下载[Texstudio](#二texstudio安装).
+![texlive](/_posts/picture/1.png)由于这个包比较大，因此下载的时候可以同时去下载[Texstudio](#二texstudio安装).
 
 #### 2、Texlive安装
 ##### 2.1 安装包下载完后，打开下载后的安装包，双击运行下图框出的文件进行安装：
-![bat](./picture/2.png)
+![bat](/_posts/picture/2.png)
 
 ##### 2.2 刚开始会出现选择安装目录界面，最好是不要安装在C盘
-![](./picture/3.png)
+![](/_posts/picture/3.png)
 
 ##### 2.3 选择好安装目录后，点击下面的Advanced，然后选择Customize，选择安装的语言包
-![](./picture/4.png)
+![](/_posts/picture/4.png)
 
 ##### 2.4 默认情况左边的是全选的，我们这里只安装汉语和英语，节省安装空间
-![](./picture/5.png)
-![](./picture/6.png)
+![](/_posts/picture/5.png)
+![](/_posts/picture/6.png)
 
 ##### 2.5 选择好语言包之后，点击安装，然后等待安装好就可以了，可能需要四十分钟
-![](./picture/7.png)
+![](/_posts/picture/7.png)
 
 ##### 2.6 验证安装是否成功,打开电脑的cmd命令框，输入以下命令：
 ``` bash
 tex -v
 ```
 如果出现类似以下输出则安装成功
-![](./picture/8.png)
+![](/_posts/picture/8.png)
 
 ### 二、Texstudio安装
 #### 2.1 下载Texstudio安装包，点击[官网](https://texstudio.sourceforge.net/)进行下载
-![](./picture/9.png)
+![](/_posts/picture/9.png)
 
 #### 2.2 安装，点击下载好的安装包，修改安装目录，最好是不要安装在C盘
-![](./picture/10.png)
+![](/_posts/picture/10.png)
 选择好安装目录之后，就直接安装，大概需要十分钟
 
 安装好之后直接打开，可以看见直接就是汉语界面，不用再进行设置
-![](./picture/11.png)
+![](/_posts/picture/11.png)
 
 下面就可以进行论文写作啦！
