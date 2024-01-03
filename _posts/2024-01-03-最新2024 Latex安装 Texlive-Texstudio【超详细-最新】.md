@@ -25,7 +25,7 @@ hidden: false # 是否展示在主页，不展示在主页在分类里面还可�
 ### 一、Texlive 2023安装
 #### 1、下载Texlive安装包
 由于网络的原因，这里推荐使用[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)来下载安装包，选择如下所示的包
-![texlive](/_posts/picture/1.png)由于这个包比较大，因此下载的时候可以同时去下载[Texstudio](#二texstudio安装).
+![texlive](/img/in-post/1.png)由于这个包比较大，因此下载的时候可以同时去下载[Texstudio](#二texstudio安装).
 
 #### 2、Texlive安装
 ##### 2.1 安装包下载完后，打开下载后的安装包，双击运行下图框出的文件进行安装：
